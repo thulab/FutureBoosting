@@ -1,0 +1,17 @@
+[
+    {
+      "target_columns": [
+        "thermal_auction_space",
+        "thermal_auction_space_st",
+        "renewable_ratio_load",
+        "renewable_ratio_power",
+        "forecast_total_power",
+        "forecast_wind_power",
+        "month",
+        "forecast_new_energy_total",
+        "day_ahead_clearing_price"
+      ]
+    }
+]
+
+

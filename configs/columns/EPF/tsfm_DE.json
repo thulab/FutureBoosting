@@ -1,0 +1,11 @@
+[
+    {
+      "target_columns": [
+        "Wind power forecast",
+        "Ampirion zonal load forecast",
+        "OT"
+      ]
+    }
+]
+
+

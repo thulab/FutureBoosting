@@ -1,0 +1,10 @@
+[
+    {
+      "data_split": {
+        "time_col": "time",
+        "train": 0.7,
+        "valid": 0.1,
+        "test": 0.2
+      }
+    }
+]

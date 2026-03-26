@@ -1,0 +1,11 @@
+[
+    {
+      "target_columns": [
+        "genf_Scheduled Generation [MW] (D) - BZN|FR",
+        "ntc_Net Position (MW)",
+        "total_Day-ahead Total Load Forecast [MW] - BZN|FR",
+        "total_Actual Total Load [MW] - BZN|FR",
+        "y_Day-ahead Price [EUR/MWh]"
+      ]
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+      "target_columns": [
+        "Grid load forecast","Wind power forecast","OT"
+      ]
+    }
+]
+
+

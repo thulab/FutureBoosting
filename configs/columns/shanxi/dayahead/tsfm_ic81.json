@@ -1,0 +1,103 @@
+[
+  {
+    "target_columns": [
+      "cloud_cover_mean",
+      "cloud_cover_max",
+      "cloud_cover_min",
+      "cloud_cover_std",
+      "cloud_cover_high_mean",
+      "cloud_cover_high_max",
+      "cloud_cover_high_min",
+      "cloud_cover_high_std",
+      "cloud_cover_low_mean",
+      "cloud_cover_low_max",
+      "cloud_cover_low_min",
+      "cloud_cover_low_std",
+      "cloud_cover_mid_mean",
+      "cloud_cover_mid_max",
+      "cloud_cover_mid_min",
+      "cloud_cover_mid_std",
+
+      "dew_point_2m_mean",
+      "dew_point_2m_max",
+      "dew_point_2m_min",
+      "dew_point_2m_std",
+
+      "diffuse_radiation_mean",
+      "diffuse_radiation_max",
+      "diffuse_radiation_min",
+      "diffuse_radiation_std",
+
+      "direct_normal_irradiance_mean",
+      "direct_normal_irradiance_max",
+      "direct_normal_irradiance_min",
+      "direct_normal_irradiance_std",
+
+      "direct_radiation_mean",
+      "direct_radiation_max",
+      "direct_radiation_min",
+      "direct_radiation_std",
+
+      "extraterrestrial_ghi_mean",
+      "extraterrestrial_ghi_max",
+      "extraterrestrial_ghi_min",
+      "extraterrestrial_ghi_std",
+
+      "precipitation_probability_mean",
+      "precipitation_probability_max",
+      "precipitation_probability_min",
+      "precipitation_probability_std",
+
+      "pressure_msl_mean",
+      "pressure_msl_max",
+      "pressure_msl_min",
+      "pressure_msl_std",
+
+      "relative_humidity_2m_mean",
+      "relative_humidity_2m_max",
+      "relative_humidity_2m_min",
+      "relative_humidity_2m_std",
+
+      "shortwave_radiation_mean",
+      "shortwave_radiation_max",
+      "shortwave_radiation_min",
+      "shortwave_radiation_std",
+
+      "solar_elevation_mean",
+      "solar_elevation_max",
+      "solar_elevation_min",
+      "solar_elevation_std",
+
+      "surface_pressure_mean",
+      "surface_pressure_max",
+      "surface_pressure_min",
+      "surface_pressure_std",
+
+      "temperature_2m_mean",
+      "temperature_2m_max",
+      "temperature_2m_min",
+      "temperature_2m_std",
+
+      "wind_speed_10m_mean",
+      "wind_speed_10m_max",
+      "wind_speed_10m_min",
+      "wind_speed_10m_std",
+
+      "wind_speed_120m_mean",
+      "wind_speed_120m_max",
+      "wind_speed_120m_min",
+      "wind_speed_120m_std",
+
+      "wind_speed_80m_mean",
+      "wind_speed_80m_max",
+      "wind_speed_80m_min",
+      "wind_speed_80m_std",
+
+      "wind_direction_10m_mean",
+      "wind_direction_80m_mean",
+      "wind_direction_120m_mean",
+
+      "day_ahead_clearing_price"
+    ]
+  }
+]

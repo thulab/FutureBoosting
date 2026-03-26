@@ -1,0 +1,22 @@
+[
+    {
+      "target_columns": [
+        "genf_Scheduled Generation [MW] (D) - BZN|FR",
+        "ntc_Net Position (MW)",
+        "total_Day-ahead Total Load Forecast [MW] - BZN|FR",
+        "total_Actual Total Load [MW] - BZN|FR",
+        "Biomass  - Actual Aggregated [MW]",
+        "Fossil Gas  - Actual Aggregated [MW]",
+        "Fossil Hard coal  - Actual Aggregated [MW]",
+        "Fossil Oil  - Actual Aggregated [MW]",
+        "Hydro Pumped Storage  - Actual Aggregated [MW]",
+        "Hydro Run-of-river and poundage  - Actual Aggregated [MW]",
+        "Hydro Water Reservoir  - Actual Aggregated [MW]",
+        "Nuclear  - Actual Aggregated [MW]",
+        "Solar  - Actual Aggregated [MW]",
+        "Waste  - Actual Aggregated [MW]",
+        "Wind Onshore  - Actual Aggregated [MW]",
+        "y_Day-ahead Price [EUR/MWh]"
+      ]
+    }
+]
